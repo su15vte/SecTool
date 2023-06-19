@@ -134,7 +134,7 @@
 #### 解题工具
 | 项目名称       | Usage | 项目地址 | 项目文档 |
 | ------------   | ----- | -------- | -------- |
-| IDA            | 最常用的静态逆向工具 | [官网](https://hex-rays.com/ida-pro/)        |  [ida pro权威指南](存在版权问题 https://github.com/Coldwave96/WebSecurity/blob/master/IDA%20Pro%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)        |
+| IDA            | 最常用的静态逆向工具 | [官网](https://hex-rays.com/ida-pro/)        |  《ida pro权威指南》(网上有电子版，因版权问题不放出链接)        |
 
 | Cheat Engine   | 对程序的内存数据进行扫描和调试，十分强大，但是用得不多 | [官网](https://www.cheatengine.org/)   |  \        |
 | DIE            | 查壳工具，拿到程序第一件事就是分析文件类型，是否有壳   | [github](https://github.com/horsicq/Detect-It-Easy)   | [github](https://github.com/horsicq/Detect-It-Easy)  |
